@@ -36,8 +36,6 @@ function anav(){
 
 
 
-// link.addEventListener('click', function(){
-//     		link.classList.remove("active");
-//     		navActive.classList.add("active");
+
 
 anav();
